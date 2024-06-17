@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-thanos:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-thanos:test:haskell-funcional-thanos-test"
